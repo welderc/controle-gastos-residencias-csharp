@@ -1,0 +1,13 @@
+# Binários do Build
+bin/
+obj/
+out/
+
+# Configurações do usuário
+*.user
+*.suo
+*.userosscache
+*.sln
+
+# Dependências do NuGet
+packages/
